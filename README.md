@@ -31,13 +31,13 @@ The project utilizes the following technologies and libraries:
 ### Usage
  1. Open the Jupyter Notebook: `Jupyter Notebook`
  2. Run the analysis scripts in the provided order.
-    - `1. Data Preparation.ipynb`
+    - `1. EDA and Common Data Preparation.ipynb`
       This notebook contains all the steps necessary to clean and preprocess the data. It should be run first to ensure that the data is in the correct format for analysis.
       Ensure the prepared data is saved correctly.
-    - `2. Data Analysis.ipynb`
-      This notebook analyzes the prepared data. It should run after `1. Data Preparation.ipynb`.
-    - `3. Model Tuning.ipynb`
-      This notebook focuses on training machine learning models and tuning their hyperparameters. It includes model evaluation and selection to achieve the best performance. It should run after `2. Model Tuning.ipynb`.
+    - `2. LinearRegression.ipynb`
+      This notebook analyzes the prepared data. It should run after `1. EDA and Common Data Preparation.ipynb`.
+    - `3. Tree Based Regression Models.ipynb`
+      This notebook focuses on training machine learning models and tuning their hyperparameters. It includes model evaluation and selection to achieve the best performance. It should run after `2. LinearRegression.ipynb`.
 
 ### Team Members
 - A: [Anwesha Sarangi](https://github.com/AnweshaSarangi)
