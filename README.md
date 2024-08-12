@@ -24,7 +24,7 @@ The project utilizes the following technologies and libraries:
  - Jupyter Notebook: An interactive environment for developing, presenting, and sharing data analysis workflows.
 
 ### Installation 
- 1. Clone the repository: `https://github.com/AnweshaSarangi/Final_Team_Project_10.git`
+ 1. Clone the repository: `https://github.com/AnweshaSarangi/Final_Team_Project.git`
  2. Navigate to the project directory: `cd Final_Team_Project_10`
  3. Install dependencies: `pip install -r requirements.txt`
 
