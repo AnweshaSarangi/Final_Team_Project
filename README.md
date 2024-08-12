@@ -3,7 +3,7 @@
  This project is a part of the AAI-501-A1: Introduction to Artificial Intelligence course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 ### Description
- This project aims to develop an AI-driven model for product-wise sales forecasting using the DataCo Smart Supply Chain dataset. The project aims to understand the structure and contents of the DataCo Smart Supply Chain dataset, perform data cleaning and preprocessing, conduct exploratory data analysis (EDA) to identify key features and patterns in the data, perform featureengineering, train, cross-validate and evaluate different models of regression and time series forecasting, and select the best performing model.
+ This project aims to develop an AI-driven model for product-wise sales forecasting using the DataCo Smart Supply Chain dataset. The project aims to understand the structure and contents of the DataCo Smart Supply Chain dataset, perform data cleaning and preprocessing, conduct exploratory data analysis (EDA) to identify key features and patterns in the data, perform feature engineering, train, cross-validate and evaluate different models of regression and time series forecasting, and select the best performing model.
 
 ### Methods Used
 - Outlier Analysis
@@ -24,8 +24,8 @@ The project utilizes the following technologies and libraries:
  - Jupyter Notebook: An interactive environment for developing, presenting, and sharing data analysis workflows.
 
 ### Installation 
- 1. Clone the repository: `https://github.com/AnweshaSarangi/Final-Team-Project.git`
- 2. Navigate to the project directory: `cd Final-Team-Project`
+ 1. Clone the repository: `https://github.com/AnweshaSarangi/Final_Team_Project_10.git`
+ 2. Navigate to the project directory: `cd Final_Team_Project_10`
  3. Install dependencies: `pip install -r requirements.txt`
 
 ### Usage
@@ -35,17 +35,16 @@ The project utilizes the following technologies and libraries:
       This notebook contains all the steps necessary to clean and preprocess the data. It should be run first to ensure that the data is in the correct format for analysis.
       Ensure the prepared data is saved correctly.
     - `2. Data Analysis.ipynb`
-      This notebook performs the analysis of the prepared data. It should run after `1. Data Preparation.ipynb`.
+      This notebook analyzes the prepared data. It should run after `1. Data Preparation.ipynb`.
     - `3. Model Tuning.ipynb`
       This notebook focuses on training machine learning models and tuning their hyperparameters. It includes model evaluation and selection to achieve the best performance. It should run after `2. Model Tuning.ipynb`.
 
 ### Team Members
 - A: [Anwesha Sarangi](https://github.com/AnweshaSarangi)
-Led the planning phase and initial approach, reviewed the project reports, supported model implementation
+ Led model training and validation for Random Forest Regressor, XG Boost Regressor, and Decision Tree Regressor, Developed and validated time series models: ARIMA, Seasonal ARIMA, Prophet, LSTM, Perform advanced EDA and visualization, Document the model development and validation process.
 - B: [Rajesh Sharma](https://github.com/Rajesh-Sharma-git)
-Conducted Research, data transformations, project documentation, and model analysis validation
-- C: [Soumi Ray](https://github.com/DrSoumiz)
-Executed data cleaning and EDA, and implemented and analyzed the model.
+Led data preprocessing and feature engineering, Performed initial EDA and visualization, Developed and validated Linear Regression, RANSAC Regressor, Lasso, Ridge, SGD Regressor, Document the preprocessing and feature engineering process.
+
 
 ### License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
