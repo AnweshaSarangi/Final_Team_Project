@@ -40,7 +40,7 @@ The project utilizes the following technologies and libraries:
       This notebook focuses on training machine learning models and tuning their hyperparameters. It includes model evaluation and selection to achieve the best performance. It should run after `2. LinearRegression.ipynb`.
     - `4. Time Series Based Models.ipynb`
       This notebook implements time series-based models for accurate sales forecasting using the DataCo Global Supply Chain dataset. This comes after `3. Tree Based Regression Models.ipynb`.
-      `5. Final Project.ipynb`
+    -`5. Final Project.ipynb`
       This notebook is executed at the last of all the project files.
 
 ### Team Members
