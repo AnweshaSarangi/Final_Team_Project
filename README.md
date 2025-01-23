@@ -1,5 +1,4 @@
-# Final_Team_Project_10
-## Supply Chain Data Analysis
+# Supply Chain Data Analysis
  This project is a part of the AAI-501-A1: Introduction to Artificial Intelligence course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 ### Description
